@@ -1,6 +1,6 @@
 # postman-tests
 
-In pre-requisite we created random staring by using function:
+In pre-requisite we created random data by using below functions:
 
 ![image](https://github.com/rushi2828/postman-tests/assets/33669698/5a05d8c1-2f8b-4755-8c69-dfad52eaad1a)
 

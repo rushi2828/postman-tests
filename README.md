@@ -2,7 +2,8 @@
 
 Test_environments_variables setup 
 
-![image](https://github.com/rushi2828/postman-tests/assets/33669698/207cb3c7-e0e6-4d83-9be9-bdf64031928f)
+![image](https://github.com/rushi2828/postman-tests/assets/33669698/acfeb14c-f250-4b2d-8b8b-423f22fe4091)
+
 
 
 In pre-requisite we created random data by using below functions:
